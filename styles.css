@@ -81,6 +81,10 @@ footer {
   border: 2px solid #c9bf80;
 }
 
+footer p + p {
+  margin-top: 6px;
+}
+
 footer a {
   font-weight: 600;
   color: var(--brown);
