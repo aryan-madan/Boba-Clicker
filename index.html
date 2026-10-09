@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Boba Clicker</title>
+<link rel="icon" href="public/boba.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<aside>
+  <div class="logo"><span>boba</span><span>clicker</span></div>
+  <div class="stat"><small>Per click</small><strong id="force">1</strong></div>
+  <div class="stat"><small>Per second</small><strong id="speed">0</strong></div>
+  <footer>Made with ❤️ by <a href="https://aryan.am" target="_blank" rel="noopener">Aryan</a></footer>
+</aside>
+<main>
+  <h1>Sip, click, sip!</h1>
+  <p class="count"><strong id="score">0</strong> boba</p>
+  <button id="cup"><img src="public/boba.png" alt="Boba" draggable="false"></button>
+</main>
+<section>
+  <h2>Upgrades</h2>
+  <div id="shop"></div>
+</section>
+<script src="app.js"></script>
+</body>
+</html>
