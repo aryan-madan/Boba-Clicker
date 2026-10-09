@@ -1,5 +1,3 @@
-![Boba Bash](public/bobabash.png)
-
 # Boba Clicker
 
 Boba Clicker is a simple ‘cookie-clicker-esque’ idle game I made for Boba Bash Delhi! You click a cup of Boba to earn more Boba and get upgrades to get more Boba!
@@ -21,6 +19,6 @@ Boba Clicker is a simple ‘cookie-clicker-esque’ idle game I made for Boba Ba
 
 ## Why?
 
-The cup of Boba looked very clickable, and I needed to make something for Boba Bash Delhi! So here's Boba Clicker!
+The cup of Boba looked very clickable, and I needed to make something for Boba Bash Delhi! So here's Boba Clicker! Heavy inspiration from Cookie Clicker :P
 
 Made with ❤️ by [Ary](https://aryan.am/)
