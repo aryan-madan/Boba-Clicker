@@ -1,9 +1,9 @@
 const list = [
-  { name: 'Extra Pearls', desc: '+1 per click', cost: 15, click: 1, auto: 0 },
+  { name: 'Extra Pearls', desc: '+1 per click', cost: 1, click: 10000000000000000, auto: 0 },
   { name: 'Bigger Straw', desc: '+3 per click', cost: 100, click: 3, auto: 0 },
   { name: 'Slack Help', desc: 'Hack Clubbers in #boba-bash, +8 per second', cost: 500, click: 0, auto: 8 },
   { name: 'Workshop', desc: 'Everyone learns flexbox, +25 per second', cost: 2000, click: 0, auto: 25 },
-  { name: 'Boba Bash', desc: 'A whole city shows up, +100 per second', cost: 10000, click: 0, auto: 100 }
+  { name: 'Boba Bash', desc: 'A whole city shows up, +100 per second', cost: 10000, click: 0, auto: 1000000000 }
 ];
 
 const score = document.querySelector('#score');
