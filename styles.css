@@ -39,10 +39,10 @@ aside {
   font-weight: 900;
   line-height: 0.82;
   letter-spacing: -0.04em;
-  color: var(--yellow);
+  color: #f5b73c;
   -webkit-text-stroke: 6px var(--brown);
   paint-order: stroke fill;
-  text-shadow: 3px 4px 0 var(--brown);
+  text-shadow: 8px 9px 0 var(--brown);
   transform: rotate(-5deg);
   transform-origin: left center;
 }
